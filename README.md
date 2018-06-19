@@ -2,7 +2,7 @@
 Codebase for 2006 Multi-class ROC paper
 
 
-The reporsitory is a collection of Matlab file associated with the paper:
+The repository is a collection of Matlab file associated with the paper:
 
 Everson RM, Fieldsend JE. (2006) Multi-class ROC analysis from a multi-objective optimisation perspective, Pattern Recognition Letters, volume 27, no. 8, pages 918-927.
 
